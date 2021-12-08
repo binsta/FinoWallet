@@ -1,4 +1,10 @@
-# React Chrome Extension Boilerplate
+# FinoWallet
+
+<p align="center">
+  <a href="https://findora.org/">
+    <img alt="Findora" src="https://wiki.findora.org/img/logo-findora.svg" style="background: black; padding: 10px" width="150" />
+  </a>
+</p>
 
 ## Getting Started
 
